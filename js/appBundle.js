@@ -3,7 +3,7 @@
  * SDK version: 4.8.1
  * CLI version: 2.12.0
  *
- * Generated: Tue, 29 Aug 2023 13:03:55 GMT
+ * Generated: Tue, 29 Aug 2023 13:33:48 GMT
  */
 
 var APP_tv_app = (function () {
@@ -27074,7 +27074,7 @@ var APP_tv_app = (function () {
     _firstActive() {
       VideoPlayer.size(1920, 1080); // Resize to desired size
       VideoPlayer.position(200, 100); // Move by 100px down and 200px to the right
-      VideoPlayer.open('http://amssamples.streaming.mediaservices.windows.net/683f7e47-bd83-4427-b0a3-26a6c4547782/BigBuckBunny.ism/manifest(format=mpd-time-csf)');
+      VideoPlayer.open('https://amssamples.streaming.mediaservices.windows.net/683f7e47-bd83-4427-b0a3-26a6c4547782/BigBuckBunny.ism/manifest(format=mpd-time-csf)');
     }
     _focus() {
       // Your existing code for handling focus
