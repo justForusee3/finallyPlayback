@@ -1,0 +1,19 @@
+{
+    "results": [
+        {"title": "Texas Chainsaw Massacre", "poster_path": "images/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg", "duration": "1hr 4mins"},
+        {"title": "Scream", "poster_path": "images/mOWp8teSWa3acjlffsEvvOkFleF.jpg", "duration": "2hrs 24mins"},
+        {"title": "Fistful of Vengeance", "poster_path": "images/3cccEF9QZgV9bLWyupJO41HSrOV.jpg", "duration": "32mins"},
+        {"title": "The King's Man", "poster_path": "images/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg", "duration": "31mins"},
+        {"title": "Spider-Man: No Way Home", "poster_path": "images/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg", "duration": "46mins"},
+        {"title": "Uncharted", "poster_path": "images/nMO3QWa6liTwNWhVICkjzaYfPoH.jpg", "duration": "1hr 16mins"},
+        {"title": "Pursuit", "poster_path": "images/wYihSXWYqN8Ejsdut2P1P0o97N0.jpg", "duration": "2hrs 39mins"},
+        {"title": "Licorice Pizza", "poster_path": "images/jD98aUKHQZNAmrk0wQQ9wmNQPnP.jpg", "duration": "1hr 4mins"},
+        {"title": "Ted K", "poster_path": "images/gPSPiHnhcZUshGC1CV5JcJpcIzB.jpg", "duration": "54mins"},
+        {"title": "Marry Me", "poster_path": "images/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg", "duration": "47mins"},
+        {"title": "Encanto", "poster_path": "images/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg", "duration": "2hrs 34mins"},
+        {"title": "House of Gucci", "poster_path": "images/vHla3Ej2m53rNmvmYkzvennLrKn.jpg", "duration": "1hr 47mins"},
+        {"title": "Eiffel", "poster_path": "images/9fCIlbXpRdvE3HW65RueGD3Zmuz.jpg", "duration": "1hr 38mins"},
+        {"title": "Eternals", "poster_path": "images/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg", "duration": "1hr 42mins"},
+        {"title": "Kimi", "poster_path": "images/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg", "duration": "2hrs 1min"}
+    ]
+}
